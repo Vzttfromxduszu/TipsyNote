@@ -1,0 +1,13 @@
+SQLAlchemy>=2.0
+PyMySQL>=1.1
+python-dotenv>=1.0
+fastapi>=0.111
+uvicorn>=0.30
+python-jose>=3.3
+passlib[bcrypt]>=1.7
+python-multipart>=0.0.9
+redis>=5.0
+requests>=2.32
+bcrypt>=4.1
+alibabacloud-dypnsapi20170525>=3.0
+alibabacloud-tea-openapi>=0.4

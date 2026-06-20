@@ -1,0 +1,1 @@
+import{q as a}from"./index-mjgQ5Oxw.js";const n=e=>a.get("/pubs/by-beer-nearby",{params:e}).then(t=>t.data),o=e=>a.get(`/pubs/${e}`).then(t=>t.data),u=(e,t,s)=>a.get(`/pubs/${e}/route`,{params:{origin_lng:t,origin_lat:s}}).then(r=>r.data);export{u as a,o as f,n as s};

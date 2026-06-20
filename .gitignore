@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+logs/
+temp/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
+
+# Node / Python / Java
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.jar
+
+# Build outputs
+/dist/
+/build/
+/out/
+
+# Storage
+storage/

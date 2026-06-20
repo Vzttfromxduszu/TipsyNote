@@ -1,0 +1,1 @@
+import{q as e}from"./index-mjgQ5Oxw.js";const n=t=>e.get("/posts",{params:t}).then(s=>s.data),p=t=>e.get(`/posts/${t}`).then(s=>s.data),d=t=>e.post("/posts",t).then(s=>s.data),c=(t,s)=>e.put(`/posts/${t}`,s).then(a=>a.data),g=t=>e.delete(`/posts/${t}`).then(s=>s.data);export{n as a,d as c,g as d,p as g,c as u};

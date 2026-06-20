@@ -1,0 +1,6 @@
+# Env 配置（示例）
+
+- DB_URL
+- LLM_API_KEY
+- MAP_API_KEY
+- STORAGE_BUCKET
